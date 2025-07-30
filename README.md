@@ -7,6 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PBust0sN&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PBust0sN&theme=merko&hide_border=false)<br/>
-[[![Mis stats](https://github-readme-stats-nu-plum-88.vercel.app/api?username=PBust0sN&count_private=true&show_icons=true)](https://github.com/PBust0sN/github-readme-stats)]
+[![Mis stats](https://github-readme-stats-nu-plum-88.vercel.app/api?username=PBust0sN&count_private=true&show_icons=true)](https://github.com/PBust0sN/github-readme-stats)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
