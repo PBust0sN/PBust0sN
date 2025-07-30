@@ -9,6 +9,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PBust0sN&theme=merko&hide_border=false)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pbust0sN&show_icons=true&theme=transparent)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=PBust0sN&icon=0&color=3)](https://visitcount.itsvg.in)
-
+[![Mis stats](https://github-readme-stats-nu-plum-88.vercel.app/api?username=PBust0sN&count_private=true&show_icons=true)](https://github.com/PBust0sN/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
